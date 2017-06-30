@@ -1,0 +1,1 @@
+# myMedia_openShift1
